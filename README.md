@@ -39,6 +39,9 @@ This task highlighted the importance of being self-aware in your career planning
 ### Evidence:
 ![image](https://github.com/user-attachments/assets/9f54f0ca-964c-4617-ad51-a3a1863e5dfd)
 
+This is my original CV.
+**add image of original cv here**
+
 
 ### Reflection:
 I completed a task which focused on creating a CV and then took a quiz to test my understanding of the key components needed in a CV. 
@@ -51,8 +54,23 @@ Creating a CV, and then answering questions about its purpose, content and struc
 
 ## CV Submission
 ### Evidence:
+This is my updated CV after doing the Create a CV Task.
+
+
+<img src="https://github.com/user-attachments/assets/d9315e25-28f8-468e-9528-46f7d1ff6afd" width="400" alt="Image of my updated CV">
+
+
 
 ### Reflection:
+My original CV was bad and not tailored for the ICT industry. It had a bit of structure and only listed retail jobs that I had done in the past. My original CV did not have my skills on as I was just using it to apply for retail jobs.
+
+My goal was to redesign my original CV to have all the relevant skills and projects on and to also showcase my achievements such as my Diploma in Business Information and Administration as well as my Higher Certificate in Information Communication Technology(ICT).
+
+I reviewed my original CV and removed the irrelevant information and added all necessary information which relates to the ICT industry such as my skills, programming languages etc.
+
+
+After making those changes my CV is much better compared to the original one. I'll keep updating it as I gain new skills and experiences. 
+
 
 ## Interview Skills & Mock Interview
 ### Evidence:
