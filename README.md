@@ -91,6 +91,6 @@ My goal was to understand the purpose of a job interview and learn how to use th
 
 I went over interview best practices which include how to frame answers making use of the CAR method. I also consulted someone who has gone for many interviews before (my mom) on what kind of questions are asked during interviews and how to answer these questions. When I did the mock interview I found it a bit cringe to talk about myself. I struggled with making the delivery sound natural but applied the CAR method to structure my answers better and to sound more authentic and not rehearsed.
 
-Doing the Interview Skills task and Mock Interview video has been an eye opening experience that has highlighted both my strengths and areas for growth. Although i felt uncormfortable at first, these tasks gave me important insight into interview procress.
+Doing the Interview Skills task and Mock Interview video has been an eye opening experience that has highlighted both my strengths and areas for growth. Although I felt uncormfortable at first, these tasks gave me important insight into the interview process.
 
 
